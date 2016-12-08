@@ -1,22 +1,46 @@
-# JavaScriptDOM
-
 要求：这个实战项目适合刚开始接触 HTML、CSS 和 JavaScript DOM 的朋友。
 
-本人强烈**不推荐**“登山学习法”学习任何技能，因为用这种方法的人，基本上都是从入门到放弃，然后再次从入门到放弃，最后怀疑人生！
+本人强烈**不推荐**登山学习法学习任何技能，因为用这种方法的人，基本上都是从入门到放弃，然后再次从入门到放弃，最后怀疑人生！
 
-本人强烈推荐**拼图理论**学习方法，就是找直接开始实战，在战争中学习战争，三步曲：
+本人强烈推荐**拼图学习方法**，找到学习这门技能的不同“图块儿”，直接开始实战，在战争中学习战争，三步曲：
 
-## 第一步
+### 第一步
 
-复制项目代码，在自己的设备上运行起来
+1. [下载项目代码](https://github.com/iamsongpeng/JavaScriptDOM)
 
-## 第二步
+2. 点击文件夹中的 index.html 文件。在自己的设备上运行起来，直接上图：
 
-第一步确认完成后，动手临摹一遍
+![JavaScript DOM编程艺术-index](http://odhng6tv1.bkt.clouddn.com/JavaScript%20DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-index.PNG)
 
-## 第三步
+![JavaScript DOM编程艺术-about](http://odhng6tv1.bkt.clouddn.com/JavaScript%20DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-about.PNG)
+
+![JavaScript DOM编程艺术-photos](http://odhng6tv1.bkt.clouddn.com/JavaScript%20DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-photos.PNG)
+
+![JavaScript DOM编程艺术-live](http://odhng6tv1.bkt.clouddn.com/JavaScript%20DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-live.PNG)
+
+![JavaScript DOM编程艺术-contact](http://odhng6tv1.bkt.clouddn.com/JavaScript%20DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF-contact.PNG)
+
+3. 小小的成就感就这么到来了！有点小激动呢！继续......
+
+4. 如果遇到问题，咋办？用搜索引擎。关于怎么更有效地利用搜索引擎，[知乎：《如何用好 Google 等搜索引擎？》](https://www.zhihu.com/question/20161362)
+
+5. 如果搜索引擎解决不了，那么找人。
+
+### 第二步
+
+动手临摹一遍，一个个文件建立起来，一行行代码敲出来。
+
+不要小瞧这一步，虽然是临摹，但你不一定能看到第一步中看到的结果。
+
+这是为什么呢？不信你就试试看！
+
+### 第三步
 
 DIY，修改也好，东拼西凑也好，把它做成你想要的样子！
+
+看不顺眼的地方，改！
+
+看到别人家的某些地方好，照着改！
 
 ---
 
